@@ -1,2 +1,2 @@
-# cource
-first repo for github
+# odoo14
+first repo for github in odoo
