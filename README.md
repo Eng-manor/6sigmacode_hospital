@@ -1,2 +1,2 @@
 # odoo14
-first repo for github in odoo
+6sigmacode_hospital module 
